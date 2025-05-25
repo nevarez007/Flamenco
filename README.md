@@ -29,7 +29,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/1e704730-3ae2-4ba7-bf95-c8d1c71a64d9" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/534edf09-e04d-43fc-bc17-20171665e088" controls width="400"></video>
     </section>
 
   <footer>
