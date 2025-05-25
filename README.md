@@ -18,7 +18,13 @@
   <main>
     <section>
       <h2>¿Qué es el Flamenco?</h2>
-      <p>El flamenco es un estilo de danza y música tradicional originario del sur de España. Se caracteriza por movimientos intensos, zapateado, palmas y expresión emocional profunda. Es una forma de arte declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO.</p>
+      <p>El flamenco es un estilo de danza y música tradicional originario del sur de España. Se caracteriza por movimientos intensos, zapateado, palmas y expresión emocional profunda. Es una forma de arte declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO.
+El Flamenco es un baile con una técnica particular y emocionalmente intenso. Para empezar a bailar flamenco es importante comenzar por ir asimilando y sintiendo la música y sus ritmos, aprender a mover las manos y brazos, por los taconeos más sencillos.. Soltarse y disfrutar! Haber bailado otros estilos seguramente será de ayuda ya que tendrás un mayor control del cuerpo, ahora bien, el Flamenco es distinto a todo lo demás.
+Un espectáculo de flamenco suele incorporar baile, música con guitarra y cante, donde el guitarrista no solo acompaña, sino que se considera también un solista. El baile suele basarse en la interpretación de la canción, combinando movimientos elegantes y suaves con intensos taconeos y giros.
+
+Dentro del flamenco se distinguen distintos estilos, correctamente denominados palos flamencos. Los palos flamencos se distinguen básicamente por su métrica, por ejemplo los compases tienen diferentes tiempos, también hay que fijarse donde está el acento musical.
+
+</p>
       <img src="https://njoymagazine.com/wp-content/uploads/2020/11/flamenco-3-edit-2048x1365.jpg" alt="Baile Flamenco" width="400">
     </section>
 
