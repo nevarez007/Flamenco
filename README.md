@@ -35,11 +35,8 @@
     <section>
     
     </section>
-  </main>
 
   <footer>
     <marquee>¡Ven y vive la pasión del Flamenco con nosotros!</marquee>
      2025 Academia Estrella
   </footer>
-</body>
-</html>
