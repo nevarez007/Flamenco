@@ -32,11 +32,6 @@
       <video src="https://github.com/user-attachments/assets/1e704730-3ae2-4ba7-bf95-c8d1c71a64d9" controls width="400"></video>
     </section>
 
-
-    <section>
-    
-    </section>
-
   <footer>
     <marquee>¡Ven y vive la pasión del Flamenco con nosotros!</marquee>
      2025 Academia Estrella
