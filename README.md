@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/53fd476b-58c7-4e45-aea7-46180253baeb
-
 <html lang="es">
 
 <head>
