@@ -22,44 +22,10 @@
     </section>
 
     <section>
-      <h2>Horarios y Precios</h2>
-      <table>
-        <tr>
-          <th>Día</th>
-          <th>Horario</th>
-          <th>Nivel</th>
-          <th>Precio mensual</th>
-        </tr>
-        <tr>
-          <td>Lunes y Miércoles</td>
-          <td>6:00 PM - 7:00 PM</td>
-          <td>Principiantes</td>
-          <td>$350</td>
-        </tr>
-        <tr>
-          <td>Martes y Jueves</td>
-          <td>7:00 PM - 8:30 PM</td>
-          <td>Avanzados</td>
-          <td>$400</td>
-        </tr>
-      </table>
-    </section>
+      
 
     <section>
-      <h2>Inscríbete a Flamenco</h2>
-      <form>
-        <label>Nombre completo: <input type="text" name="nombre"></label><br>
-        <label>Edad: <input type="number" name="edad"></label><br>
-        <label>Email: <input type="email" name="email"></label><br>
-        <label>Selecciona tu nivel:
-          <select>
-            <option>Principiantes</option>
-            <option>Avanzados</option>
-          </select>
-        </label><br>
-        <input type="submit" value="Inscribirme">
-      </form>
-    </section>
+
 
     <section>
       <h2>Video de clase</h2>
