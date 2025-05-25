@@ -18,7 +18,7 @@
     <section>
       <h2>¿Qué es el Flamenco?</h2>
       <p>El flamenco es un estilo de danza y música tradicional originario del sur de España. Se caracteriza por movimientos intensos, zapateado, palmas y expresión emocional profunda. Es una forma de arte declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO.</p>
-      <img src="media/flamenco.jpg" alt="Baile Flamenco" width="400">
+      <img src="https://njoymagazine.com/wp-content/uploads/2020/11/flamenco-3-edit-2048x1365.jpg" alt="Baile Flamenco" width="400">
     </section>
 
     <section>
