@@ -1,4 +1,5 @@
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="css/estilos.css">
@@ -29,7 +30,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/534edf09-e04d-43fc-bc17-20171665e088" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/53fd476b-58c7-4e45-aea7-46180253baeb" controls width="400"></video>
     </section>
 
   <footer>
