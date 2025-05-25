@@ -67,8 +67,7 @@
     </section>
 
     <section>
-      <h2>Música típica del Flamenco</h2>
-      <audio src="media/flamenco-musica.mp3" controls></audio>
+    
     </section>
   </main>
 
