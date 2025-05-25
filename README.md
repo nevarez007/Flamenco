@@ -63,7 +63,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="media/flamenco-video.mp4" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/ff2a642a-ec0f-4997-8ff4-e9b0c98baf5d" width="400" controls></video>
     </section>
 
     <section>
